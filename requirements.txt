@@ -1,5 +1,4 @@
 boto3
 requests
-io
 matplotlib
 pandas
